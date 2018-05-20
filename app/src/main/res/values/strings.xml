@@ -1,0 +1,17 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Playerama</string>
+
+    <!-- Category name for My Mix Activity [CHAR LIMIT=20] -->
+    <string name="category_my_mix">My mix</string>
+
+    <!-- Category name for the Top Hits activity [CHAR LIMIT=20] -->
+    <string name="category_top_hits">Top Hits</string>
+
+    <!-- Category name for the Now Playing activity [CHAR LIMIT=20] -->
+    <string name="category_now_playing">Now Playing</string>
+
+    <!-- Category name for the Trending activity [CHAR LIMIT=20] -->
+    <string name="category_trending">Trending</string>
+</resources>
+
